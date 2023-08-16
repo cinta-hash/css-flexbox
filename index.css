@@ -1,0 +1,11 @@
+.nav-list{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    gap: 1rem;
+}
+.nav-list li{
+    flex-grow: 0;
+    flex-shrink: 1;
+}
